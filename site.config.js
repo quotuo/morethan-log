@@ -4,7 +4,7 @@ const CONFIG = {
     name: "CHUN",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "伪善。",
-    bio: "I develop everything using node.",
+    bio: "「我那么深沉而又绝望的爱你，我只想掏空自己都给你。」",
     email: "1@chun.ac.cn",
     linkedin: "",
     github: "",
@@ -12,20 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "utopia && Ukiyoe",
-    description: "就像杜拉斯在《情人》里所写的那样一一「我那么深沉而又绝望的爱你，我只想掏空自己都给你。」!",
+    title: "Utopia && Ukiyoe",
+    description: "就像杜拉斯在《情人》里所写的那样一一「我那么深沉而又绝望的爱你，我只想掏空自己都给你。」",
   },
 
   // CONFIG configration (required)
   link: "https://211211.best",
   since: 2024, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
